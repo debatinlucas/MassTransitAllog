@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "7QbksGIEaXsdQ3i0bq8TwsRGFfGU5l1Bb9lPGASa/Xc=",
+  "Source": "MassTransitAllog.Producer",
+  "BasePath": "_content/MassTransitAllog.Producer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

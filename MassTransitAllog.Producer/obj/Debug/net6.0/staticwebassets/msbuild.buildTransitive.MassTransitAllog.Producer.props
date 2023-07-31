@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MassTransitAllog.Producer.props" />
+</Project>

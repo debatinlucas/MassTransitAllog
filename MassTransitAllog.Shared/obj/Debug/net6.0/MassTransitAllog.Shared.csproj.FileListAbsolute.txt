@@ -1,0 +1,12 @@
+D:\Workspaces\allog\MassTransitAllog\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.csproj.AssemblyReference.cache
+D:\Workspaces\allog\MassTransitAllog\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspaces\allog\MassTransitAllog\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.AssemblyInfoInputs.cache
+D:\Workspaces\allog\MassTransitAllog\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.AssemblyInfo.cs
+D:\Workspaces\allog\MassTransitAllog\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.csproj.CoreCompileInputs.cache
+D:\Workspaces\allog\MassTransitAllog\MassTransitAllog.Shared\bin\Debug\net6.0\MassTransitAllog.Shared.deps.json
+D:\Workspaces\allog\MassTransitAllog\MassTransitAllog.Shared\bin\Debug\net6.0\MassTransitAllog.Shared.dll
+D:\Workspaces\allog\MassTransitAllog\MassTransitAllog.Shared\bin\Debug\net6.0\MassTransitAllog.Shared.pdb
+D:\Workspaces\allog\MassTransitAllog\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.dll
+D:\Workspaces\allog\MassTransitAllog\MassTransitAllog.Shared\obj\Debug\net6.0\refint\MassTransitAllog.Shared.dll
+D:\Workspaces\allog\MassTransitAllog\MassTransitAllog.Shared\obj\Debug\net6.0\MassTransitAllog.Shared.pdb
+D:\Workspaces\allog\MassTransitAllog\MassTransitAllog.Shared\obj\Debug\net6.0\ref\MassTransitAllog.Shared.dll
